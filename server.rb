@@ -1,5 +1,5 @@
 require 'sinatra'
 
-get '/' do
+get '/families' do
   'Hello world!'
 end
